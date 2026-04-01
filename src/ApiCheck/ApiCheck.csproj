@@ -5,7 +5,7 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
     <PackageId>ApiCheck.Client</PackageId>
-    <Version>1.0.0</Version>
+    <Version>2.0.0</Version>
     <Authors>ApiCheck</Authors>
     <Description>C# client for ApiCheck - address validation, search, and verification</Description>
     <PackageTags>apicheck;address;validation;email;phone</PackageTags>
